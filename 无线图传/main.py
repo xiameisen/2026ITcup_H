@@ -18,7 +18,7 @@ import time
 import uctypes
 
 AP_SSID = "K230D_RTSP_AP"
-AP_PASSWORD = "12345678"
+AP_PASSWORD = "CHANGE_ME"
 AP_START_WAIT_S = 3
 
 RTSP_PORT = 8554
